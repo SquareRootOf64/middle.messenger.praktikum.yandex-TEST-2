@@ -1,5 +1,7 @@
 ### Ветка, в которой делаете задания спринта, должна называться sprint_i, где i - номер спринта. Не переименовывайте её.
+Ссылка на прототип figma: https://www.figma.com/design/F5NmkPDmRPTTkbAbJBtaw2/Untitled?node-id=0-1&t=NXkSl2uVgKzYQ4x3-0
 
+Netlify: [https://club-messenger.netlify.app](https://club-messenger.netlify.app)
 ### Откройте pull request в ветку main из ветки, где вы разрабатывали проект, и добавьте ссылку на этот pr в README.md в ветке main. 
 ### ВАЖНО: pull request должен называться “Sprint i” (i — номер спринта).
 
