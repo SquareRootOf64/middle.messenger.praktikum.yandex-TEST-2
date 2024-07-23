@@ -6,7 +6,7 @@ export default defineConfig({
     build: {
         rollupOptions: {
             input: {
-                //main: resolve(__dirname, 'index.html'),
+                main: resolve(__dirname, 'index.html'),
                 chats: resolve(__dirname, 'src/chats/chats.html'),
                 error404: resolve(__dirname, 'src/errors/error404.html'),
                 error500: resolve(__dirname, 'src/errors/error500.html'),
